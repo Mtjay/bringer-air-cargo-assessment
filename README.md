@@ -2,7 +2,7 @@
 
 Author: **Miguel Tejeda**
 
-**jwt-backend** is Rest API in NODE.JS that generates a JWT token which is consumed and displayed by a simple REACT view
+**jwt-backend** is Rest API in NODE.JS that generates a JWT token which is consumed and displayed by a simple REACT view  
 **bringer-air-backend** is a view in REACT and NODE.JS that consumes and displays the tracking events returned by an API with a given endpoint
 
 
